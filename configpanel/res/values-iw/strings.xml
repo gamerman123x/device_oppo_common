@@ -33,11 +33,11 @@
   <string name="touchscreen_camera_gesture_summary">צייר מעגל להפעלת המצלמה</string>
   <string name="touchscreen_music_gesture_title">מוזיקה</string>
   <string name="touchscreen_flashlight_gesture_title">פנס</string>
-  <string name="touchscreen_flashlight_gesture_summary">צייר \"V\" כדי להפעיל את הפנס</string>
-  <string name="touchscreen_music_gesture_summary">השתמש במחוות כדי לשלוט בנגן מוזיקה\n
-    • שתי אצבעות אנכית כדי להמשיך/להשהות\n
-    • צייר חץ שמאלי כדי לחזור אחורה\n
-    • צייר חץ ימני כדי להזיז קדימה</string>
+  <string name="touchscreen_flashlight_gesture_summary">צייר V להפעלת/כיבוי הפנס</string>
+  <string name="touchscreen_music_gesture_summary">השתמש במחוות לשליטה בהשמעת מוזיקה\n
+    • שתי אצבעות אנכית לניגון/השהייה\n
+    • ציור חץ שמאלה לחזרה לרצועה הקודמת\n
+    • ציור חץ ימינה למעבר לרצועה הבאה</string>
   <string name="oclick_panel_title">הגדרות O-Click</string>
   <string name="oclick_panel_summary">הגדר התקן O-Click</string>
   <string name="oclick_connect_string">התחבר</string>
